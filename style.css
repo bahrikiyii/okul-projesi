@@ -1,0 +1,91 @@
+a{
+    color:#FF0000;
+}
+a:visited {
+    color:rgb(240, 206, 13);
+}
+
+a:hover {
+    color:green;
+}
+
+a:active {
+    color:cornflowerblue;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 50px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    font-weight: bold;
+
+}
+
+h2 {
+    font-family: 'Times New Roman'  'Arial' 'Helvetica';
+    font-style: italic;
+}
+
+h3 {
+    font-size: 12pt;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+h5 {
+    font-size: 2em;
+}
+
+h6 {
+    font-size: 200%;
+
+}
+
+ul {
+
+list-style-type: square;
+/* list-style-image: url('madde..gif'); */
+list-style-position: inside;
+}
+
+ol {
+    list-style-type: circle
+};
+
+table {
+    text-align: center;
+    color:#FF0000
+    background-color:aqua;
+    padding: 32px;
+
+}
+
+.kutum {
+    width: 250px;
+    height: 10px;
+    border: 5px outset gray;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+/*
+% yüzdelik anlamına
+inç anlamına gelir
+cm santim anlamına gelir
+mm milimetre anlamına gelir
+em varsayılan yazı büyüklüğünü verir
+pt punto demektir
+px ise pixel
+/*
+    
